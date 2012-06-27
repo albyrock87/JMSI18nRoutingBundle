@@ -1,6 +1,6 @@
 {
-    "name":         "jms/i18n-routing-bundle",
-    "description":  "This bundle allows you to create i18n routes.",
+    "name":         "albyrock87/i18n-routing-bundle-private",
+    "description":  "Just some adds to JMSI18nRoutingBundle",
     "keywords":     ["translation","multilanguage","routing"],
     "homepage": "http://jmsyst.com/bundles/JMSI18nRoutingBundle",       
     "type":         "symfony-bundle",
@@ -9,6 +9,10 @@
         {
             "name":   "Johannes M. Schmitt",
             "email":  "schmittjoh@gmail.com"
+        },
+        {
+            "name":   "Alberto Aldegheri",
+            "email":  "albyrock87@gmail.com"
         }
     ],
     "require": {
