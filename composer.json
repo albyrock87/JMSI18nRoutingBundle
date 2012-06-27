@@ -15,6 +15,7 @@
             "email":  "albyrock87@gmail.com"
         }
     ],
+    "version": "private-repo",
     "require": {
         "symfony/framework-bundle": "2.*",
         "jms/translation-bundle": "*"
